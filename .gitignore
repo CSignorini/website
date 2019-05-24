@@ -1,0 +1,4 @@
+.DS_Store
+file_to_ignore
+*~
+tmp/
